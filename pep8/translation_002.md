@@ -21,7 +21,7 @@
 # Aligned with opening delimiter.
 # 시작하는 구분 문자에 따라 배열하세요.
 foo = long_function_name(var_one, var_two,
-                        var_three, var_four)
+                         var_three, var_four)
 
 # More indentation included to distinguish this from the rest.
 # 추가적인 들여쓰기는 나머지들로부터 구분하고자하는 것을 더 잘 구분하기 위해 포함될 수 있습니다.
